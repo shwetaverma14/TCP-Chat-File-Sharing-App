@@ -114,7 +114,6 @@ Run multiple clients in separate terminals.
 
 ## Server
 
-*Add screenshot here*
 
 
 ![Server Screenshot](screenshots/server.PNG)
@@ -124,7 +123,7 @@ Run multiple clients in separate terminals.
 
 ## Broadcast Messaging
 
-*Add screenshot here*
+*Public Message sent by Alice shown to all other members*
 
 
 ![Broadcast Messaging from Alice](screenshots/i1.PNG)
@@ -135,7 +134,7 @@ Run multiple clients in separate terminals.
 
 ## Private Messaging
 
-*Add screenshot here*
+*Private messages between Alice and Bob*
 
 
 ![Private Messaging sent by Alice](screenshots/p1.PNG)
@@ -146,7 +145,7 @@ Run multiple clients in separate terminals.
 
 ## File Sharing
 
-*Add screenshot here*
+*File sharing betweem Alice and Bob*
 
 
 ![File send by Alice](screenshots/f1.PNG)
