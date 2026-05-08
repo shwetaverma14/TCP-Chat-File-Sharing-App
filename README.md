@@ -127,8 +127,9 @@ Run multiple clients in separate terminals.
 
 
 ![Broadcast Messaging from Alice](screenshots/i1.PNG)
+*Broadcast Message sent by Alice*
 ![Broadcast Messaging received by others](screenshots/i2.PNG)
-
+*Broadcast Message received by others*
 
 ---
 
@@ -138,8 +139,9 @@ Run multiple clients in separate terminals.
 
 
 ![Private Messaging sent by Alice](screenshots/p1.PNG)
+*Private Message sent by Alice*
 ![Private Messaging received by Bob](screenshots/p2.PNG)
-
+*Private Message received by Bob*
 
 ---
 
@@ -149,8 +151,9 @@ Run multiple clients in separate terminals.
 
 
 ![File send by Alice](screenshots/f1.PNG)
+*File sent by Alice*
 ![File received by Bob](screenshots/f2.PNG)
-
+*File received by Bob*
 
 ---
 
